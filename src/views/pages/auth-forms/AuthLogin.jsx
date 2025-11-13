@@ -39,7 +39,7 @@ export default function AuthLogin() {
     <>
       <CustomFormControl fullWidth>
         <InputLabel htmlFor="outlined-adornment-email-login">Email Address / Username</InputLabel>
-        <OutlinedInput id="outlined-adornment-email-login" type="email" value="info@codedthemes.com" name="email" />
+        <OutlinedInput id="outlined-adornment-email-login" type="email" value="" name="email" />
       </CustomFormControl>
 
       <CustomFormControl fullWidth>

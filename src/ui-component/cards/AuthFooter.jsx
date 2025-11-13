@@ -11,8 +11,8 @@ export default function AuthFooter() {
       <Typography variant="subtitle2" component={Link} href="https://Metroxdashboard.com" target="_blank" underline="hover">
         Metroxdashboard.com
       </Typography>
-      <Typography variant="subtitle2" component={Link} href="https://codedthemes.com" target="_blank" underline="hover">
-        &copy; codedthemes.com
+      <Typography variant="subtitle2" component={Link} href="#" target="_blank" underline="hover">
+        &copy; jokkodesign.com
       </Typography>
     </Stack>
   );
